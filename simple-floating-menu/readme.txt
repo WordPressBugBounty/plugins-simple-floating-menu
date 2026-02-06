@@ -2,9 +2,9 @@
 Contributors: hashthemes
 Tags: menu, sticky button, floating menu, fixed menu
 Requires at least: 6.3
-Tested up to: 6.7
-Stable tag: 1.3.0
-Requires PHP: 7.4
+Tested up to: 6.9
+Stable tag: 1.3.2
+Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,6 +50,13 @@ The easy way to install the plugin is via WordPress.org plugin directory.
 3. Admin Panel of Simple Floating Menu
 
 == Changelog ==
+= 1.3.2 - 6 Dec, 2025 =
+* Compatibility test with WordPress version 6.9
+
+= 1.3.1 - 10 Oct, 2025
+* Security Bug fixes
+* Translation fixes
+
 = 1.3.0 - 3 Mar, 2025
 * Translation fixes
 
